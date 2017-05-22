@@ -1,0 +1,19 @@
+{
+  "name": "tired-gaur",
+  "version": "1.0.0",
+  "description": "web scrappers goal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentsoundz/tired-gaur.git"
+  },
+  "author": "johnware15 silentsoundz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silentsoundz/tired-gaur/issues"
+  },
+  "homepage": "https://github.com/silentsoundz/tired-gaur#readme"
+}
