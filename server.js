@@ -16,7 +16,7 @@ app.get('/scrape', function(req, res) {
       const $ = cheerio.load(html);
       const json = {}
 
-      $( TITLE ).filter(function() {
+      $( TITLE ).each(function() {
         const title = $(this).text().trim()
 
         json.title = title.substring( 0, title.indexOf( '(' ) - 1 )
@@ -26,7 +26,7 @@ app.get('/scrape', function(req, res) {
         json.releaseDate = $(this).text();
       })
 
-      $('.subtext > meta').filter(function() {
+      $('.subtext > meta').each(function() {
         json.rating = $(this).attr('content');
       })
 
