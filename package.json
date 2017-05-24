@@ -4,7 +4,9 @@
   "description": "web scrappers goal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon -e js server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/silentsoundz/tired-gaur/issues"
   },
-  "homepage": "https://github.com/silentsoundz/tired-gaur#readme"
+  "homepage": "https://github.com/silentsoundz/tired-gaur#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
