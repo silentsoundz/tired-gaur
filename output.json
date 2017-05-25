@@ -1,6 +1,266 @@
-{
-    "title": "Get Out",
-    "releaseDate": "2017",
-    "rating": "R",
-    "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_UX182_CR0,0,182,268_AL_.jpg"
-}
+[
+    {
+        "title": "Wonder Woman",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Captain Underpants: The First Epic Movie",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Dean",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "3 Idiotas",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Past Life",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Band Aid",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Vincent N Roxxy",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Mummy",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Megan Leavey",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "It Comes at Night",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Hero",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Beatriz at Dinner",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "My Cousin Rachel",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Cars 3",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Rough Night",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "All Eyez on Me",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "47 Meters Down",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Book of Henry",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Maudie",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "I, Daniel Blake",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Journey",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Transformers: The Last Knight",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Big Sick",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Beguiled",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Bad Batch",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Despicable Me 3",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The House",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Baby Driver",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Amityville: The Awakening",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "Elser",
+        "releaseDate": "2015"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The Little Hours",
+        "releaseDate": "2017"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "The B-Side: Elsa Dorfman's Portrait Photography",
+        "releaseDate": "2016"
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    },
+    {
+        "title": "",
+        "releaseDate": ""
+    }
+]
