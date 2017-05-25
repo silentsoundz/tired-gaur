@@ -1,266 +1,226 @@
 [
     {
         "title": "Wonder Woman",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Patty Jenkins",
+        "synopsis": "Before she was Wonder Woman she was Diana, princess of the Amazons, trained warrior. When a pilot crashes and tells of conflict in the outside world, she leaves home to fight a war to end all wars, discovering her full powers and true destiny.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Captain Underpants: The First Epic Movie",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "David Soren",
+        "synopsis": "Two overly imaginative pranksters named George and Harold, hypnotize their principal into thinking he's a ridiculously enthusiastic, incredibly dimwitted superhero named Captain Underpants.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzM2NzgzNV5BMl5BanBnXkFtZTgwODU3NTI0MTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Dean",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Demetri Martin",
+        "synopsis": "A comedy about loss, grief and the redemptive power of love, Dean is an NY illustrator who falls hard for an LA woman while trying to prevent his father from selling the family home in the wake of his mother's death.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTcwOTMzNDU1Ml5BMl5BanBnXkFtZTgwMzQ0MTM4MTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "3 Idiotas",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Carlos Bolado",
+        "synopsis": "A group of friends embark on a fun adventure determined to find a college roommate who disappeared without a trace on graduation day.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzNiYWQ5MDgtMjhiMC00MWQ4LTgzYzAtODk2NmMxMjQ0NTFjXkEyXkFqcGdeQXVyNjcyOTA3Njc@._V1_UY209_CR3,0,140,209_AL_.jpg"
     },
     {
         "title": "Past Life",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Avi Nesher",
+        "synopsis": "Past Life tracks the daring late 1970s odyssey of two sisters - an introverted classical musician and a rambunctious scandal sheet journalist - as they unravel a shocking wartime mystery that has cast a dark shadow on their entire lives.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzZTkyYjctZGU1Ni00ZjJjLThhMWMtNTliODIzOTkxNTBiL2ltYWdlXkEyXkFqcGdeQXVyNzIzMTc2Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Band Aid",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Zoe Lister-Jones",
+        "synopsis": "A couple who can't stop fighting embark on a last-ditch effort to save their marriage: turning their fights into songs and starting a band.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMzYzMjU3NV5BMl5BanBnXkFtZTgwNjUwMjEzMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Vincent N Roxxy",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Gary Michael Schultz",
+        "synopsis": "A small town loner and a rebellious punk rocker unexpectedly fall in love as they are forced on the run and soon discover violence follows them everywhere.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTU5YTIwYjMtYWI1YS00YzViLWI5ZWItZWY4OTBhZDk5OTVjXkEyXkFqcGdeQXVyNDI2MTA0OA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The Mummy",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Alex Kurtzman",
+        "synopsis": "An ancient princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5NzM5NTgxN15BMl5BanBnXkFtZTgwNDEyNTk4MTI@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Megan Leavey",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Gabriela Cowperthwaite",
+        "synopsis": "Based on the true life story of a young Marine corporal whose unique discipline and bond with her military combat dog saved many lives during their deployment in Iraq.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxOTk2NTkxNF5BMl5BanBnXkFtZTgwOTUyOTM3MTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "It Comes at Night",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Trey Edward Shults",
+        "synopsis": "Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The Hero",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Brett Haley",
+        "synopsis": "An ailing movie star comes to terms with his past and mortality.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2OTY1MjI4OV5BMl5BanBnXkFtZTgwNzYwMjk5MTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Beatriz at Dinner",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Miguel Arteta",
+        "synopsis": "A holistic medicine practitioner attends a wealthy client's dinner party after her car breaks down.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDU3M2EwZWEtMGQxZS00NmFjLTlhMDItMDU5NGU1MGUyZmVmXkEyXkFqcGdeQXVyNjU2NTMxOTg@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "My Cousin Rachel",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Roger Michell",
+        "synopsis": "A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTY3MjEwM15BMl5BanBnXkFtZTgwNTY2MzUyMTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Cars 3",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Brian Fee",
+        "synopsis": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Rough Night",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Lucia Aniello",
+        "synopsis": "A group of friends are horrified when the male stripper they hired for a wild bachelorette party in Miami winds up dead.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODY1NDUzNzY4MV5BMl5BanBnXkFtZTgwNzc3NzcyMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "All Eyez on Me",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Benny Boom",
+        "synopsis": "Tells the true and untold story of prolific rapper, actor, poet and activist Tupac Shakur.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NzQ4NzU4OF5BMl5BanBnXkFtZTgwNTkxMzE0MjI@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "47 Meters Down",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Johannes Roberts",
+        "synopsis": "Two sisters vacationing in Mexico are trapped in a shark cage at the bottom of the ocean. With less than an hour of oxygen left and great white sharks circling nearby, they must fight to survive.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGJlNDJkZmEtMjUwNS00ZWViLWIyZGEtN2Y5ZjZlNDE1NWJkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The Book of Henry",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Colin Trevorrow",
+        "synopsis": "Sometimes things are not always what they seem, especially in the small suburban town where the Carpenter family lives. Single suburban mother Susan Carpenter works as a waitress at a diner, alongside feisty family friend Sheila. Her younger son Peter is a playful 8-year-old. Taking care of everyone and everything in his own unique way is Susan's older son Henry, age 11. Protector to his adoring younger brother and tireless supporter of his often self-doubting mother - and, through investments, of the family as a whole - Henry blazes through the days like a comet. Susan discovers that the family next door, which includes Henry's kind classmate Christina, has a dangerous secret - and that Henry has devised a surprising plan to help. As his brainstormed rescue plan for Christina takes shape in thrilling ways, Susan finds herself at the center of it.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3MjI4OTU1Ml5BMl5BanBnXkFtZTgwMTgwODcyMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Maudie",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Aisling Walsh",
+        "synopsis": "An arthritic Nova Scotia woman works as a housekeeper while she hones her skills as an artist and eventually becomes a beloved figure in the community.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NTQzMDY3NV5BMl5BanBnXkFtZTgwMDQ2Mzg0MTI@._V1_UY209_CR2,0,140,209_AL_.jpg"
     },
     {
         "title": "I, Daniel Blake",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Ken Loach",
+        "synopsis": "After having suffered a heart-attack, a 59-year-old carpenter must fight the bureaucratic forces of the system in order to receive Employment and Support Allowance.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTMzMTk4NV5BMl5BanBnXkFtZTgwNTU5MjE4MDI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The Journey",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Nick Hamm",
+        "synopsis": "A fictional account of the extraordinary story of two implacable enemies in Northern Ireland - firebrand Democratic Unionist Party leader Paisley and Sinn Fein politician Martin McGuinness - who are forced to take a short journey together in which they will take the biggest leap of faith and change the course of history.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMzNlZGQtYTU0My00NzFmLWE4NmYtODc4Y2Q0OTY2ODk2XkEyXkFqcGdeQXVyMTc4NDkxOA@@._V1_UY209_CR1,0,140,209_AL_.jpg"
     },
     {
         "title": "Transformers: The Last Knight",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Michael Bay",
+        "synopsis": "Humans and Transformers are at war, Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UY209_CR1,0,140,209_AL_.jpg"
     },
     {
         "title": "The Big Sick",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Michael Showalter",
+        "synopsis": "A couple deals with their cultural differences as their relationship grows.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWM4YzZjOTEtZmU5ZS00ZTRkLWFiNjAtZTEwNzIzMDM5MjdmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The Beguiled",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Sofia Coppola",
+        "synopsis": "At a girls' school in Virginia during the Civil War, where the young women have been sheltered from the outside world, a wounded Union soldier is taken in. Soon, the house is taken over with sexual tension, rivalries, and an unexpected turn of events.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NjY3NDYxMl5BMl5BanBnXkFtZTgwMjI5ODgyMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The Bad Batch",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Ana Lily Amirpour",
+        "synopsis": "A dystopian love story in a Texas wasteland and set in a community of cannibals.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTA3NTI2MzMwMF5BMl5BanBnXkFtZTgwNzY0OTcyMjI@._V1_UY209_CR2,0,140,209_AL_.jpg"
     },
     {
         "title": "Despicable Me 3",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Kyle BaldaPierre CoffinEric Guillon",
+        "synopsis": "Gru meets his twin brother Dru he never knew about.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "The House",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Andrew Jay Cohen",
+        "synopsis": "A dad convinces his friends to start an illegal casino in his basement after he and his wife spend their daughter's college fund.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NDYwNzU2M15BMl5BanBnXkFtZTgwOTUxNDg0MTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Baby Driver",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Edgar Wright",
+        "synopsis": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Amityville: The Awakening",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Franck Khalfoun",
+        "synopsis": "A single mother moves her three children into a haunted house, unaware of its bloody history.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmIwM2E5YjEtMTM2Yy00NTQ5LWJjZjgtMjllZTU2YmNkZWU4XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
         "title": "Elser",
-        "releaseDate": "2015"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2015",
+        "director": "Oliver Hirschbiegel",
+        "synopsis": "In November 1939, Georg Elser's attempt to assassinate Adolf Hitler fails, and he is arrested. During his confinement, he recalls the events leading up to his plot and his reasons for deciding to take such drastic action.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MzYzNDEzN15BMl5BanBnXkFtZTgwODM5NTY0MTI@._V1_UY209_CR2,0,140,209_AL_.jpg"
     },
     {
         "title": "The Little Hours",
-        "releaseDate": "2017"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2017",
+        "director": "Jeff Baena",
+        "synopsis": "A young servant fleeing from his master takes refuge at a convent full of emotionally unstable nuns in the middle ages.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAzOTQ2NTg1OF5BMl5BanBnXkFtZTgwNTUyNzUzMjI@._V1_UY209_CR1,0,140,209_AL_.jpg"
     },
     {
         "title": "The B-Side: Elsa Dorfman's Portrait Photography",
-        "releaseDate": "2016"
-    },
-    {
-        "title": "",
-        "releaseDate": ""
-    },
-    {
-        "title": "",
-        "releaseDate": ""
-    },
-    {
-        "title": "",
-        "releaseDate": ""
+        "releaseDate": "2016",
+        "director": "Errol Morris",
+        "synopsis": "A look at the life and work of photographer Elsa Dorfman.",
+        "moviePoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0Mzg1NjMyOV5BMl5BanBnXkFtZTgwODE0MDgwMjI@._V1_UY209_CR0,0,140,209_AL_.jpg"
     }
 ]
