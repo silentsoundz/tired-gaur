@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="./index.css" type="text/css">
+  <title>M.C. WARE Scraper</title>
+</head>
+<body>
+  <header>
+    <h1>M.C. WARE Scraper</h1>
+    <h2>Movies Coming Soon</h2>
+  </header>
+  <div>
+    <ul>
+      <%  for(let i = 0; i < allMovies.length; i++) { %>
+
+        <li>
+          <h1><%- allMovies[i].title %></h1>
+          <p><%- allMovies[i].releaseDate%></p>
+        <p><%- allMovies[i].director%></p>
+        <p><%- allMovies[i].synopsis%></p>
+        </li>
+      <%  } %>
+    </ul>
+  </div>
+  <script type="text/javascript" src="ejs_production.js"></script>
+
+</body>
+</html>
