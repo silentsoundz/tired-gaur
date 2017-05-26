@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+  <meta charset="UTF-8">
+  <title>M.C. WARE Scraper</title>
+  <link rel="stylesheet" "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+  <header>
+    <h1>M.C. WARE Scraper</h1>
+    <h2>Movies Coming Soon</h2>
+  </header>
+  <div>
+  <%  for(let i = 0; i < allMovies.length; i++) { %>
+      <ul>
+      <li><img src=<% movie.moviePoster%> /> 
+          <h1><%movie.title%></h1>
+        <p><%movie.releaseDate%></p>
+        <p><%movie.director%></p>
+        <p><%movie.synopsis%></p>
+      </li>
+  <%  } %>
+      </ul>
+  </div>
+
+</body>
+</html>
