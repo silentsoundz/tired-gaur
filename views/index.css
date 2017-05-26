@@ -1,0 +1,28 @@
+header {
+  background-color: darkred;
+  font-family: 'arial' sans-serif;
+}
+
+h1 {
+  font-family: 'georgia' serif;
+  padding-left: 20px;
+}
+
+h2 {
+  font-family: 'arial' sans-serif;
+  padding-left: 30px;
+  align-content: center;
+}
+
+body {
+  font-family: 'arial' sans-serif;
+  background-color: lightgrey;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
