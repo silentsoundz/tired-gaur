@@ -18,8 +18,7 @@ app.get('/scrape', function(req, res) {
   request( URL, function(error, response, html) {
     if (!error) {
       const $ = cheerio.load(html)
-      // const allMovies = []
-
+      
       $('tr').each(function(index, element) {
 
         let h4 = $(element).find('h4[itemprop=name] > a')
@@ -31,6 +30,7 @@ app.get('/scrape', function(req, res) {
         let a = $(element).find('div.txt-block span[itemprop=director] a')
         const aText =$(a).text()
         const director = aText
+
 
 
         let div = $(element).find('div.outline')

@@ -1,5 +1,11 @@
 # tired-gaur
 web scrappers goal
+## Instructions
+
+1. npm install
+2. npm start
+3. Open browser go to http://localhost:8081/scrape
+4. if you want to lint: npm run lint.
 
 ## Instructions
 
